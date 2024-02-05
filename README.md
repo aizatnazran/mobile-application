@@ -1,6 +1,6 @@
 # Personal Finance Mobile Application
 
-Thi is a personal finance mobile application project built using React Native and Expo.
+This is a personal finance mobile application project built using React Native and Expo.
 
 ## Getting Started
 
