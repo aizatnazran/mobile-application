@@ -2,6 +2,8 @@
 
 This is a personal finance mobile application project built using React Native and Expo.
 
+![Image](image.jpg)
+
 ## Getting Started
 
 To run this project, you will need to have Expo Go installed on your mobile device. Expo Go is an app that allows you to open up projects that are being served through Expo CLI.
